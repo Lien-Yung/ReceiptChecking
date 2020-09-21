@@ -54,4 +54,10 @@ public class Checking : IChecking
 }
 
 ```
-
+用字串比對判斷是否中獎，中了甚麼獎項後帶入中獎資訊中
+```
+if ( String.Compare(_specialPrize, number.Substring(0, 8)) == 0 )
+{
+   Winning("SpecialPrize");
+}
+```
