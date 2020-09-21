@@ -1,12 +1,7 @@
-﻿using HtmlAgilityPack;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.IO;
 using System.Net;
-using System.Net.Http;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace ReceiptChecking
 {
@@ -16,7 +11,6 @@ namespace ReceiptChecking
         {
             void Reward(string number);
             void Winning(string item);
-
         }
         public class Checking : IChecking
         {

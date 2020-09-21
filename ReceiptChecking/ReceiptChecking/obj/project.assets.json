@@ -752,11 +752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\連琨詠\\source\\repos\\ReceiptChecking\\ReceiptChecking\\ReceiptChecking.csproj",
+      "projectUniqueName": "C:\\Users\\連琨詠\\Documents\\GitHub\\ReceiptChecking\\ReceiptChecking\\ReceiptChecking\\ReceiptChecking.csproj",
       "projectName": "ReceiptChecking",
-      "projectPath": "C:\\Users\\連琨詠\\source\\repos\\ReceiptChecking\\ReceiptChecking\\ReceiptChecking.csproj",
+      "projectPath": "C:\\Users\\連琨詠\\Documents\\GitHub\\ReceiptChecking\\ReceiptChecking\\ReceiptChecking\\ReceiptChecking.csproj",
       "packagesPath": "C:\\Users\\連琨詠\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\連琨詠\\source\\repos\\ReceiptChecking\\ReceiptChecking\\obj\\",
+      "outputPath": "C:\\Users\\連琨詠\\Documents\\GitHub\\ReceiptChecking\\ReceiptChecking\\ReceiptChecking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
