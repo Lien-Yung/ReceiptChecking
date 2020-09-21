@@ -1,0 +1,11 @@
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\bin\Debug\netcoreapp2.1\ReceiptChecking.deps.json
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\bin\Debug\netcoreapp2.1\ReceiptChecking.runtimeconfig.json
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\bin\Debug\netcoreapp2.1\ReceiptChecking.runtimeconfig.dev.json
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\bin\Debug\netcoreapp2.1\ReceiptChecking.dll
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\bin\Debug\netcoreapp2.1\ReceiptChecking.pdb
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\obj\Debug\netcoreapp2.1\ReceiptChecking.csprojAssemblyReference.cache
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\obj\Debug\netcoreapp2.1\ReceiptChecking.csproj.CoreCompileInputs.cache
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\obj\Debug\netcoreapp2.1\ReceiptChecking.AssemblyInfoInputs.cache
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\obj\Debug\netcoreapp2.1\ReceiptChecking.AssemblyInfo.cs
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\obj\Debug\netcoreapp2.1\ReceiptChecking.dll
+C:\Users\連琨詠\source\repos\ReceiptChecking\ReceiptChecking\obj\Debug\netcoreapp2.1\ReceiptChecking.pdb
