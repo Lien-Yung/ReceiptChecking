@@ -16,7 +16,6 @@ namespace ReceiptChecking
         {
             void Reward(string number);
             void Winning(string item);
-
         }
         public class Checking : IChecking
         {
